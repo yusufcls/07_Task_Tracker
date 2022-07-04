@@ -1,5 +1,7 @@
 const ShowTasks = () => {
-  return <div>ShowTasks</div>;
+  return <div>
+    <p>SHOW TASK</p>
+    </div>;
 };
 
 export default ShowTasks;
